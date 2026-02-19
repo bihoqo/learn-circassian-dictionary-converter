@@ -1,0 +1,10 @@
+{
+  "1улъхьэм зэщ1ищта": {"type":"adjective","definitions":[{"examples":[{"sentence":"правительство коррумпированное.","translation":"правительствэр коррупцэм зэщiищтащ."}],"meaning":"коррумпированный"}]},
+  "1умахуэ": {"type":"adjective","definitions":[{"meaning":"удачливый"}]},
+  "1умпэм щ1ын": {"type":"verb","definitions":[{"meaning":"игнорировать"}]},
+  "1унк1ыбзэ": {"type":"noun","definitions":[{"examples":[{"sentence":"у тебя есть ключ?","translation":"уэ iункiыбзэ уиiэ?"}],"meaning":"ключ"},{"meaning":"замо́к"}]},
+  "1унк1ыбзэ етын": {"type":"verb","definitions":[{"examples":[{"sentence":"я забыл запереть дверь.","translation":"сэ бжэр згъэбыдэну сщыгъупщащ."}],"meaning":"запирать"}]},
+  "1унк1эн": {"type":"verb","definitions":[{"examples":[{"sentence":"под моими ногами с треском сломалась половица.","translation":"уи iэпэхэм макъ ебгъэщiыфыну?"}],"meaning":"щёлкать"},{"meaning":"срываться"}]},
+  "1унэрэ тк1уанэрэ": {"type":"noun","definitions":[{"meaning":"точка с запятой"}]},
+  "1уп1эн": {"type":"verb","definitions":[{"meaning":"загораживать"}]}
+}

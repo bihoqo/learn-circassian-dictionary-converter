@@ -1,0 +1,14 @@
+{
+  "1улъхьэ къе1ыхын": {"type":"noun","definitions":[{"meaning":"bribery"}]},
+  "1улъхьэм зэщ1ищта": {"type":"adjective","definitions":[{"examples":[{"sentence":"the government is corrupt.","translation":"правительствэр коррупцэм зэщiищтащ."}],"meaning":"corrupt"}]},
+  "1умахуэ": {"type":"adjective","definitions":[{"meaning":"fortunate"}]},
+  "1умпэм щ1ын": {"type":"verb","definitions":[{"meaning":"ignore"}]},
+  "1унк1ыбзэ": {"type":"noun","definitions":[{"examples":[{"sentence":"do you have the key?","translation":"уэ iункiыбзэ уиiэ?"}],"meaning":"key"},{"meaning":"lock"}]},
+  "1унк1ыбзэ етын": {"type":"verb","definitions":[{"examples":[{"sentence":"i forgot to lock the door.","translation":"сэ бжэр згъэбыдэну сщыгъупщащ."}],"meaning":"lock"}]},
+  "1унк1эн": {"type":"verb","definitions":[{"examples":[{"sentence":"a floorboard snapped under my feet.","translation":"уи iэпэхэм макъ ебгъэщiыфыну?"}],"meaning":"snap"},{"meaning":"snap"}]},
+  "1унэрэ тк1уанэрэ": {"type":"noun","definitions":[{"meaning":"semicolon"}]},
+  "1уп1эн": {"type":"verb","definitions":[{"meaning":"obstruct"}]},
+  "1упк1ын": {"type":"verb","definitions":[{"meaning":"bounce"}]},
+  "ауэ": {"type":"conjunction","definitions":[{"examples":[{"sentence":"i want to go, but it\u2019s late.","translation":"сэ сыхуейщ сыкiуэну, ауэ гуващ."}],"meaning":"but"},{"meaning":"but"},{"examples":[{"sentence":"however, it's impossible.","translation":"ауэ ар iэмал зимыiэщ."}],"meaning":"however"},{"meaning":"after all"},{"meaning":"for free"}]},
+  "гуп": {"type":"noun","definitions":[{"examples":[{"sentence":"which group are you in?","translation":"уэ сыт хуэдэ гуп узыщыщыр?"}],"meaning":"group"},{"examples":[{"sentence":"you need to choose a team.","translation":"уэ командэ къыхэпхын хуейщ."}],"meaning":"team"},{"meaning":"community"},{"meaning":"audience"},{"examples":[{"sentence":"the street band played loudly.","translation":"уэрамым дэт гупыр зэрыгъэкiийуэ джэгут."}],"meaning":"band"},{"meaning":"collective"},{"meaning":"squad"},{"meaning":"flock"},{"meaning":"brigade"},{"meaning":"detachment"},{"meaning":"gang"},{"meaning":"community"}]}
+}

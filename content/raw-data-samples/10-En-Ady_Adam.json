@@ -1,0 +1,12 @@
+{
+	"abandon": {"links":[{"clarity":"to divorce","word":"щынэжьын"},{"clarity":"to divorce","word":"къыщынэн"},{"word":"бгынэн"},{"clarity":"to abandon someone in a forest or in a certain situation","word":"къыхэнэн"}]},
+	"abandoned": {"links":[{"word":"бгынагъэ"},{"word":"бгынэжьыгъэ"},{"word":"чiэдзыжьыгъэ"}]},
+	"after": {"links":[{"word":"ыуж"},{"word":"ыужыкiэ"},{"clarity":"the one after","word":"ыужырэ"},{"tag":"dialectal","word":"иуж"},{"clarity":"after someone/something else","word":"ыкъынэуж"},{"clarity":"after someone/something else","word":"ыкъынэужкiэ"},{"clarity":"after everyone else","word":"акъынэуж"},{"clarity":"after everyone else","word":"акъынэужкiэ"},{"clarity":"after it reaches a certain time","word":"къэсыгъахэу"},{"clarity":"afterward","word":"ыкъынэуж"}]},
+	"after him": {"links":[{"word":"ыуж"},{"word":"ыужкiэ"},{"word":"къыкiэлъыкiорэ"},{"word":"ыужырэ"}]},
+	"after it": {"links":[{"word":"ыуж"},{"word":"ыужкiэ"},{"word":"къыкiэлъыкiорэ"},{"word":"ыужырэ"}]},
+	"always": {"links":[{"word":"ренэу"},{"word":"зэпыт"},{"clarity":"verbal suffix indicating always","word":"-зэпыт"},{"word":"сыд щыгъокiи"},{"clarity":"Shapsug","word":"енэу"},{"clarity":"always, never","word":"сыдигъуи"}]},
+	"amazing": {"links":[{"word":"гъэшiэгъон"},{"clarity":"amazing, awesome, nice, cool","tag":"slang","word":"цiапiэ"}]},
+	"argue": {"links":[{"word":"нэкъокъон"},{"clarity":"to argue with each other","word":"зэнэкъокъун"},{"clarity":"to argue with each other","word":"зэдэон"},{"clarity":"to argue back","word":"пэгущыiэжьын"},{"clarity":"to go against","word":"пэiууцожьын"},{"clarity":"to argue with someone","word":"енэкъокъун"}]},
+	"arms": {"links":[{"word":"iашэ"}]},
+	"army": {"links":[{"word":"дзэ"}]}
+}
